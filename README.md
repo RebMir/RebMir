@@ -36,25 +36,20 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
+![Rebeccah's GitHub stats](https://github-readme-stats.vercel.app/api?username=RebMir&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RebMir&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="languages" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RebMir&layout=compact&count_private=true&theme=tokyonight)
+
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:your-email"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/YourGitHubUsername"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://linkedin.com/in/rebeccahmiruka" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:rebeccahmiruka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/RebMir"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
