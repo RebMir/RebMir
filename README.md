@@ -28,9 +28,9 @@
 ---
 
 ### 📌 Featured Projects
-- 🌱 [**AgriLink**](your-project-link) – Smart Agriculture Marketplace  
+- 🌱 [**AgriLink**](https://agri-link-rh43.vercel.app/) – Smart Agriculture Marketplace  
 - ✅ [**Task Manager**](your-project-link) – Organize tasks with JWT Authentication  
-- 🐞 [**Bug Tracker**](your-project-link) – Debugging & issue-tracking tool  
+- 🌦️ [**Weather Dashboard**](https://weatherdashboard-pearl.vercel.app/) – Real-time weather dashboard with location-based forecasts.  
 - 💬 [**Chat App**](your-project-link) – Real-time messaging with Socket.io  
 
 ---
