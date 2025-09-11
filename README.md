@@ -29,7 +29,7 @@
 
 ### 📌 Featured Projects
 - 🌱 [**AgriLink**](https://agri-link-rh43.vercel.app/) – Smart Agriculture Marketplace  
-- ✅ [**Task Manager**](https://week-7-devops-deployment-assignment-ppyj.onrender.com) – Organize tasks with JWT Authentication  
+- ✅ [**Task Manager**](https://taskmanager-hxr3.onrender.com) – Organize tasks with JWT Authentication  
 - 🌦️ [**Weather Dashboard**](https://weatherdashboard-pearl.vercel.app/) – Real-time weather dashboard with location-based forecasts.
 - 📝 [**Notes App**](https://notes-app-9kzw.onrender.com) - Simple & Secure Note-Taking with MERN.
 - 💬 [**Chat App**](your-project-link) – Real-time messaging with Socket.io  
